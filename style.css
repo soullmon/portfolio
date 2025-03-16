@@ -89,7 +89,7 @@ main {
 }
 /*Toys*/
 .hotspots .hotspot:nth-child(5) .trigger {
-  top:  44%;
+  top:  45%;
   left: 53%;
 }
 /*adventure*/
@@ -109,7 +109,7 @@ main {
 
 /*email*/
 .hotspots .hotspot:nth-child(9) .trigger {
-  top:  75%;
+  top:  76%;
   left: 84%;
   
   /*secreet*/
@@ -147,13 +147,13 @@ main {
 /*Part Of Commision and Proj */
 
 .hotspots .hotspot:nth-child(15) .trigger {
-  top: 57%;
+  top: 58%;
   left: 92%;
   cursor: hand;
 }
 
 .hotspots .hotspot:nth-child(16) .trigger {
-  top: 82%;
+  top: 83%;
   left: 27%;
   cursor: hand;
 }
