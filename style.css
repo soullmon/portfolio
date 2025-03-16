@@ -11,7 +11,10 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 
 video {
   pointer-events: none;
+display: none !important;
+opacity: 0 !important;}
 }
+
 html {
   height: 100%;
 }
